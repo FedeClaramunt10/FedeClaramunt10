@@ -16,6 +16,7 @@
 - En cursada de la **Tecnicatura Superior en Análisis de Datos e Inteligencia Artificial**.
 - Me interesa el análisis y la ciencia de datos aplicada: desde la limpieza y exploración de datos hasta modelos de machine learning y su puesta en producción.
 - Experiencia académica realizando proyectos completos: definición del problema, preparación de datos, modelado, evaluación y presentación de resultados (informes, dashboards y APIs).
+- Más de **15 repositorios** con los trabajos de cada materia de la tecnicatura, publicados y documentados.
 
 ## Skills
 
@@ -60,6 +61,12 @@
 | [ciencia-de-datos](https://github.com/FedeClaramunt10/ciencia-de-datos) | Casos prácticos con árboles de decisión, bosques aleatorios y redes neuronales, con informe y tablero en Power BI. |
 | [gestion-de-proyectos](https://github.com/FedeClaramunt10/gestion-de-proyectos) | Planificación de proyectos de datos: alcance, cronograma y roadmap de un proyecto de asistencia con IA. |
 | [proteccion-datos-personales](https://github.com/FedeClaramunt10/proteccion-datos-personales) | Marcos legales de protección de datos personales, IA y trabajo, y responsabilidad algorítmica. |
+| [bases-de-datos](https://github.com/FedeClaramunt10/bases-de-datos) | Diseño de esquemas relacionales (MER) y SQL: DDL, DML, consultas con JOIN, TPs y parciales resueltos. |
+| [procesamiento-de-datos](https://github.com/FedeClaramunt10/procesamiento-de-datos) | Limpieza y transformación de datasets reales: valores nulos, normalización y preparación (pandas). |
+| [programacion-ii](https://github.com/FedeClaramunt10/programacion-ii) | Programación orientada a objetos en Python: funciones, clases, herencia y trabajo integrador. |
+| [programacion](https://github.com/FedeClaramunt10/programacion) | Fundamentos de Python: estructuras de datos, archivos, ejercicios y exámenes resueltos. |
+| [procesamiento-del-habla](https://github.com/FedeClaramunt10/procesamiento-del-habla) | Edición de audio con Audacity, análisis acústico con Pratt y transcripción automática con Whisper. |
+| [introduccion-a-la-ia](https://github.com/FedeClaramunt10/introduccion-a-la-ia) | Fundamentos de inteligencia artificial: análisis predictivo y primeros trabajos de la materia. |
 
 ## GitHub Stats
 
