@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋 soy Federico Claramunt</h1>
+﻿<h1 align="center">Hola 👋 soy Federico Claramunt</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Análisis+de+Datos+e+Inteligencia+Artificial;Data+Analyst+en+formación;Python,+Machine+Learning+y+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Estudiante+de+Ciencia+de+Datos+e+Inteligencia+Artificial;Data+Analyst+en+formación;Python,+Machine+Learning+y+Dashboards" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-- En cursada de la **Tecnicatura Superior en Análisis de Datos e Inteligencia Artificial**.
+- En cursada de la **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial**.
 - Me interesa el análisis y la ciencia de datos aplicada: desde la limpieza y exploración de datos hasta modelos de machine learning y su puesta en producción.
 - Experiencia académica realizando proyectos completos: definición del problema, preparación de datos, modelado, evaluación y presentación de resultados (informes, dashboards y APIs).
 - Más de **15 repositorios** con los trabajos de cada materia de la tecnicatura, publicados y documentados.
@@ -77,7 +77,7 @@
 
 ## Formación
 
-- **Tecnicatura Superior en Análisis de Datos e Inteligencia Artificial** — en cursada.
+- **Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial** — en cursada.
 
 ## Contacto
 
